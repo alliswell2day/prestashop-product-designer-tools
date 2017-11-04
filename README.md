@@ -1,7 +1,7 @@
 Demo Online Product Designer Pro https://goo.gl/kYho1j
 
 # About Online Products Designer Tools #PDP
-Products Designer Pro (#PDP) are compatible with the most popular ecommerce platforms, such as Magento 1.9.x, Magento 2.x, Woocommerce, OpenCart, Shopify, Prestashop. It provides solution for online printing on demand services.
+Products Designer Pro (#PDP) are compatible with the most popular ecommerce platforms, such as Magento 1.9.x, Magento 2.x, Woocommerce, OpenCart, Shopify, Prestashop(>=1.6). It provides solution for online printing on demand services.
 ![Alt text](https://productsdesignerpro.com/wp-content/uploads/2016/08/mockup-on-ipad.jpg "Push multiple products") 
 Helpful links:
 - How it works? Check here https://goo.gl/2WE8Or
@@ -16,6 +16,7 @@ Helpful links:
 - Customer can save customized design in My Customized Design section (Prestahop user can save or order customized design)
 - Source code is open for any suggest or customization the shopping cart rules.
 - Only contributors can submit commit.
+- Support Prestashop from version 1.6.
 # Download
 [Lastest Version](https://github.com/magebay99/prestashop-product-designer-tools/archive/master.zip)
 # Installation Guide 
