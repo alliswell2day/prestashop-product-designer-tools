@@ -1,0 +1,85 @@
+
+ul.product_list.grid > li .product-container .button-container .ajax_request_customize_button {
+    margin: 0 6px 10px 6px;
+}
+
+.button.ajax_request_customize_button {
+    font: 700 17px/21px Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 0;
+    border: 1px solid;
+    border-color: #399a49 #247f32 #1a6d27 #399a49;
+}
+
+.button.ajax_request_customize_button span {
+    border: 1px solid;
+    border-color: #74d578;
+    padding: 10px 14px;
+    display: block;
+    background: #43b754;
+    background: -moz-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #43b754), color-stop(2%, #41b757), color-stop(4%, #41b854), color-stop(6%, #43b756), color-stop(38%, #41b354), color-stop(40%, #44b355), color-stop(66%, #45af55), color-stop(74%, #41ae53), color-stop(91%, #42ac52), color-stop(94%, #41ae55), color-stop(96%, #43ab54), color-stop(100%, #42ac52));
+    background: -webkit-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: -o-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: -ms-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: linear-gradient(to bottom, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#009ad0', endColorstr='#007ab7', GradientType=0);
+}
+
+.button.ajax_request_customize_button:hover {
+    border-color: #196f28 #399a49 #399a49 #258033;
+}
+
+.button.ajax_request_customize_button:hover span {
+    filter: none;
+    background: #3aa04c;
+}
+
+.box-info-product .exclusive.ajax_request_customize_button {
+    font: 700 17px/21px Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 0;
+    border: 1px solid;
+    border-color: #399a49 #247f32 #1a6d27 #399a49;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-info-product .exclusive.ajax_request_customize_button:before {
+    content: '';
+    border: 0;
+}
+
+.box-info-product .exclusive.ajax_request_customize_button:after {
+    background: none;
+}
+
+.box-info-product .exclusive.ajax_request_customize_button span {
+    border: 1px solid;
+    border-color: #74d578;
+    padding: 10px 14px;
+    display: block;
+    background: #43b754;
+    background: -moz-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #43b754), color-stop(2%, #41b757), color-stop(4%, #41b854), color-stop(6%, #43b756), color-stop(38%, #41b354), color-stop(40%, #44b355), color-stop(66%, #45af55), color-stop(74%, #41ae53), color-stop(91%, #42ac52), color-stop(94%, #41ae55), color-stop(96%, #43ab54), color-stop(100%, #42ac52));
+    background: -webkit-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: -o-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: -ms-linear-gradient(top, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    background: linear-gradient(to bottom, #43b754 0%, #41b757 2%, #41b854 4%, #43b756 6%, #41b354 38%, #44b355 40%, #45af55 66%, #41ae53 74%, #42ac52 91%, #41ae55 94%, #43ab54 96%, #42ac52 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#009ad0', endColorstr='#007ab7', GradientType=0);
+}
+
+.box-info-product .exclusive.ajax_request_customize_button:hover {
+    border-color: #196f28 #399a49 #399a49 #258033;
+}
+
+.box-info-product .exclusive.ajax_request_customize_button:hover span {
+    filter: none;
+    background: #3aa04c;
+}
+
+.disable_pdp_custom{
+    display:none;
+}

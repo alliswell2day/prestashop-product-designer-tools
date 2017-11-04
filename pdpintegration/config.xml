@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pdpintegration</name>
+    <displayName><![CDATA[pdpIntegration]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[=== PrestaShop PDP Integration ===]]></description>
+    <author><![CDATA[www.magebay.com]]></author>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+    <limited_countries></limited_countries>
+</module>
