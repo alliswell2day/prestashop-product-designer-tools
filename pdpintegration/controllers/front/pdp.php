@@ -51,10 +51,10 @@ class PdpIntegrationPdpModuleFrontController extends ModuleFrontController {
         }
 
         $guestDesign = $this->getDesignByCustomerId($this->context->customer->id);
+	$guestdesigns = array();
         if (!empty($guestDesign)) {
             $data_item_value = unserialize($guestDesign['item_value']);
             if (is_array($data_item_value)) {
-                $guestdesigns = array();
                 foreach ($data_item_value as $__item) {
                     $link_edit_design = '#';
                     if (isset($__item['design_id']) && $__item['design_id'] && isset($__item['product_id']) && $__item['product_id']) {
